@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.595d7bb2.css",
+    "main.js": "./static/js/main.9eb0b7ef.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/contact.png": "./static/media/contact.f2ee3f5a499a1cf109fc.png",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/vecteezy_404-landing-page_6549647.jpg": "./static/media/vecteezy_404-landing-page_6549647.38da77fa310c806b1db8.jpg",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/80986018-eadd-499f-9d99-be18df80a4e8.avif": "./static/media/80986018-eadd-499f-9d99-be18df80a4e8.8619644b53503321d8e7.avif",
+    "static/media/a92443db-1170-4ab9-92ca-7d204c972416.avif": "./static/media/a92443db-1170-4ab9-92ca-7d204c972416.ef5cb15db351d968f388.avif",
+    "static/media/12518e86-9379-4605-b26c-37241ff84dc4.avif": "./static/media/12518e86-9379-4605-b26c-37241ff84dc4.03305b2322b8010a0445.avif",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.595d7bb2.css.map": "./static/css/main.595d7bb2.css.map",
+    "main.9eb0b7ef.js.map": "./static/js/main.9eb0b7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595d7bb2.css",
+    "static/js/main.9eb0b7ef.js"
+  ]
+}
